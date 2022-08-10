@@ -8,6 +8,12 @@ nest+typeorm+mysql+docker
 docker compose up
 ```
 
+初回のみ
+
+```
+docker compose exec api yarn
+```
+
 # 参考
 
 https://zenn.dev/senri/articles/331162304a78e0
